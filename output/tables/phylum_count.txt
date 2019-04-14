@@ -1,0 +1,73 @@
+"this"	"Freq"
+"1"	"Acidobacteria"	65
+"2"	"Actinobacteria"	3480
+"3"	"Aquificae"	32
+"4"	"Armatimonadetes"	8
+"5"	"Bacteroidetes"	1315
+"6"	"Balneolaeota"	9
+"7"	"Caldiserica"	1
+"8"	"Calditrichaeota"	2
+"9"	"candidate division KD3-62"	1
+"10"	"candidate division NC10"	2
+"11"	"candidate division WOR-3"	3
+"12"	"candidate division WWE3"	1
+"13"	"candidate division Zixibacteria"	6
+"14"	"Candidatus Acetothermia"	7
+"15"	"Candidatus Aminicenantes"	7
+"16"	"Candidatus Atribacteria"	2
+"17"	"Candidatus Bathyarchaeota"	17
+"18"	"Candidatus Beckwithbacteria"	1
+"19"	"Candidatus Berkelbacteria"	1
+"20"	"Candidatus Calescamantes"	1
+"21"	"Candidatus Campbellbacteria"	1
+"22"	"Candidatus Cloacimonetes"	7
+"23"	"Candidatus Fervidibacteria"	1
+"24"	"Candidatus Hydrogenedentes"	1
+"25"	"Candidatus Korarchaeota"	1
+"26"	"Candidatus Kryptonia"	3
+"27"	"Candidatus Latescibacteria"	1
+"28"	"Candidatus Marinimicrobia"	4
+"29"	"Candidatus Melainabacteria"	2
+"30"	"Candidatus Micrarchaeota"	1
+"31"	"Candidatus Microgenomates"	1
+"32"	"Candidatus Nanohaloarchaeota"	2
+"33"	"Candidatus Omnitrophica"	2
+"34"	"Candidatus Parcubacteria"	14
+"35"	"Candidatus Parvarchaeota"	2
+"36"	"Candidatus Peregrinibacteria"	1
+"37"	"Candidatus Poribacteria"	1
+"38"	"Candidatus Saccharibacteria"	6
+"39"	"Candidatus Thorarchaeota"	3
+"40"	"Candidatus Woesebacteria"	1
+"41"	"Candidatus Wolfebacteria"	1
+"42"	"Chlamydiae"	23
+"43"	"Chlorobi"	16
+"44"	"Chloroflexi"	68
+"45"	"Chrysiogenetes"	4
+"46"	"Crenarchaeota"	75
+"47"	"Cyanobacteria"	220
+"48"	"Deferribacteres"	12
+"49"	"Deinococcus-Thermus"	89
+"50"	"Dictyoglomi"	2
+"51"	"Elusimicrobia"	5
+"52"	"Euryarchaeota"	458
+"53"	"Fibrobacteres"	10
+"54"	"Firmicutes"	2708
+"55"	"Fusobacteria"	42
+"56"	"Gemmatimonadetes"	4
+"57"	"Ignavibacteriae"	2
+"58"	"Kiritimatiellaeota"	1
+"59"	"Lentisphaerae"	4
+"60"	"Nanoarchaeota"	5
+"61"	"Nitrospinae"	1
+"62"	"Nitrospirae"	32
+"63"	"Planctomycetes"	52
+"64"	"Proteobacteria"	5303
+"65"	"Rhodothermaeota"	4
+"66"	"Spirochaetes"	124
+"67"	"Synergistetes"	25
+"68"	"Tenericutes"	231
+"69"	"Thaumarchaeota"	34
+"70"	"Thermodesulfobacteria"	12
+"71"	"Thermotogae"	50
+"72"	"Verrucomicrobia"	67

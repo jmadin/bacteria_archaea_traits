@@ -1,0 +1,39 @@
+Original,New,Priority,Category
+NA,NA,0,0
+obligate aerobe,obligate aerobic,2,1
+facultative anaerobe,facultative,2,1
+facultative aerobe,facultative,2,1
+microaerophile,microaerophilic,2,1
+aerobe,aerobic,1,1
+aerobic,aerobic,1,1
+Aerobe,aerobic,1,1
+Aerobic,aerobic,1,1
+Obligate aerobe,obligate aerobic,2,1
+Obligate aerobic,obligate aerobic,2,1
+Obligate Aerobic,obligate aerobic,2,1
+Facultative,facultative,2,1
+facultative,facultative,2,1
+Facultative anaerobe,facultative,2,1
+facultative anarobic,facultative,2,1
+Facultative Anaerobic,facultative,2,1
+Microaerophilic,microaerophilic,2,1
+microaerophilic,microaerophilic,2,1
+strictaero,obligate aerobic,2,1
+anaerobic,anaerobic,1,2
+Anaerobe,anaerobic,1,2
+Obligate anaerobe,obligate anaerobic,2,2
+Anaerobic,anaerobic,1,2
+obligate anaerobe,obligate anaerobic,2,2
+anaerobe,anaerobic,1,2
+strictanaero,obligate anaerobic,2,2
+Anearobic,obligate anaerobic,2,2
+Obligate anaerobic,obligate anaerobic,2,2
+Obligate anearobic,obligate anaerobic,2,2
+Unknown,NA,0,0
+missing,NA,0,0
+Missing,NA,0,0
+Strict anaerobe,obligate anaerobic,2,2
+FA,facultative,2,1
+AN,anaerobic,1,2
+A,aerobic,1,1
+microA,microaerophilic,2,1

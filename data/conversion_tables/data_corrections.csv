@@ -1,0 +1,76 @@
+data_source,tax_id,org_name,column,org_value,new_value,comment,reference
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d1_lo,6,0.1,Incorrect,ISBN-10: 0-9631172-1-1
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d1_up,20,0.2,Incorrect,ISBN-10: 0-9631172-1-1
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d2_lo,18,6,Incorrect,ISBN-10: 0-9631172-1-1
+gold,1095955,Treponema pallidum pallidum Sea 81-4,d2_up,20,15,Incorrect,ISBN-10: 0-9631172-1-1
+fierer,454162,Kiloniella laminariae,d1_lo,3.75,0.5,Incorrect,dx.doi.org/10.1099/ijs.0.001651-0
+fierer,454162,Kiloniella laminariae,d2_lo,5.5,2.5,Incorrect,dx.doi.org/10.1099/ijs.0.001651-0
+gold,158189,Sphaerochaeta globosa Buddy,d1_lo,3,0.4,Incorrect,dx.doi.org/10.1099/ijs.0.023986-0
+gold,158189,Sphaerochaeta globosa Buddy,d1_up,25,2.5,Incorrect,dx.doi.org/10.1099/ijs.0.023986-0
+fierer,545502,Ornithinibacillus bavariensis,d1_lo,0,0.4,Incorrect,dx.doi.org/10.1099/ijs.0.64038-0
+fierer,545502,Ornithinibacillus bavariensis,d1_up,4,0.4,Incorrect,dx.doi.org/10.1099/ijs.0.64038-0
+fierer,265426,Pontibacillus chungwhensis,d1_lo,0,0.6,Incorrect,dx.doi.org/10.1099/ijs.0.63315-0
+gold,40318,Streptomyces nodosus ATCC 14899,genome_size,113193,7714110,Incorrect,NCBI genome [NCBI Reference Sequence: NZ_CP009313.1]
+gold,1307457,Kineosporia mikuniensis JCM 9961,genome_size,302968,902075,Incorrect,NCBI genome [INSDC: BBIG00000000.1]
+gold,1305865,Cellulomonas chitinilytica JCM 16927,genome_size,571202,1171080,Incorrect,NCBI genome [INSDC: BBHG00000000.1]
+gold,1305857,Cellulomonas composti JCM 14898,genome_size,782536,1280760,Incorrect,NCBI genome [INSDC: BBGY00000000.1]
+gold,314345,Mariprofundus ferrooxydans PV-1,metabolism,aerobic,microaerophilic,Incorrect,doi.org/10.1371/journal.pone.0025386
+gold,1188231,Mariprofundus ferrooxydans M34,metabolism,aerobic,microaerophilic,Incorrect,doi.org/10.1038/ismej.2014.183
+microbe-directory,334543,Psychrobacter arcticus,optimum_tmp,-10,22,Incorrect,doi.org/10.1099/ijs.0.64043-0
+microbe-directory,39486,Dorea formicigenerans,optimum_tmp,-60,NA,Incorrect,
+microbe-directory,251,Psychroflexus gondwanensis,optimum_tmp,-5,NA,Incorrect,doi.org/10.1099/00207713-43-1-77
+microbe-directory,28095,Burkholderia gladioli,optimum_tmp,121,NA,"Incorrect, mesophilic",
+methanogen,2322,Methanohalobium evestigatum,optimum_tmp,0,NA,Possibly incorrect,
+microbe-directory,57029,Psychroflexus torquis,optimum_tmp,-5,12.5,Incorrect,doi.org/10.1099/00221287-144-6-1601
+fierer,466153,Singulisphaera acidiphila,metabolism,microaerophilic,obligate aerobic,"Organism is able to grow under low oxygen conditions, but is not said to grow better under these conditions.",doi.org/10.1099/ijs.0.65593-0
+gold,466153,Singulisphaera acidiphila MOB10,metabolism,microaerophilic,obligate aerobic,"Organism is able to grow under low oxygen conditions, but is not said to grow better under these conditions.",doi.org/10.1099/ijs.0.65593-0
+gold,1118236,Shigella boydii 08_0009,d1_lo,0.012,NA,Correct according to input from GOLD but doesn't seem realistic,
+gold,1118236,Shigella boydii 08_0009,d1_up,0.014,NA,Correct according to input from GOLD but doesn't seem realistic,
+fierer,1229268,Salinibacillus xinjiangensis,d1_lo,2.5,0.2,Incorrect,doi.org/10.1099/ijs.0.053306-0
+microbe-directory,244596,Hoeflea phototrophica,optimum_ph,-1.5,7.5,Incorrect,doi.org/10.1099/ijs.0.63958-0
+genbank,452659,Rickettsia rickettsii str. Iowa,tRNA_genes,68,34,Incorrect - seems to be an issue with duplication due to genome having been replaced in genbank. Should likely check remaining values as well.,https://www.ncbi.nlm.nih.gov/nuccore/NC_010263
+genbank,1302858,Borrelia miyamotoi LB-2001,tRNA_genes,62,31,Incorrect - seems to be an issue with duplication due to genome having been replaced in genbank. Should likely check remaining values as well.,https://www.ncbi.nlm.nih.gov/nuccore/NC_022079.2
+fierer,619731,Halostagnicola kamekurae,sporulation,yes,no,"Incorrect, no known archaea sporulate. Also, sporulation not mentioned in original publication",doi.org/10.1099/ijs.0.014449-0
+fierer,416273,Natronomonas moolapensis,sporulation,yes,no,"Incorrect, no known archaea sporulate. Also, sporulation not mentioned in original publication",doi.org/10.1099/ijs.0.010132-0
+gold,1227452,Haloarcula amylolytica JCM 13557,sporulation,yes,no,"Incorrect, no known archaea sporulate. Also, sporulation not mentioned in original publication",doi.org/10.1099/ijs.0.64647-0
+corkrey,29426,Methylobacter vinelandii,doubling_h,1806.13,75,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,421,Methylomonas methanica,doubling_h,2717.42,112,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,426,Methylosinus trichosporium,doubling_h,3159,131,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,414,Methylococcus capsulatus,doubling_h,4566.05,119,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,29469,Methylocystis minimus,doubling_h,2863.79,191,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,202206,Methylocystis methanolicus,doubling_h,2646.81,110,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,134,Methylocystis parvus,doubling_h,3695.4,152,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,428,Methylosinus sporium,doubling_h,4575.93,187,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,202205,Methylobacter chroococcum,doubling_h,1070.09,74,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,202205,Methylobacter chroococcum,growth_tmp,14.9,30,"Incorrect, not temperature where fastest growth was observed",PMID: 11558268 
+corkrey,29468,Methylocystis echinoides,doubling_h,1186.39,83,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,29468,Methylocystis echinoides,growth_tmp,10,30,"Incorrect, not temperature where fastest growth was observed",PMID: 11558268 
+corkrey,29470,Methylocystis pyriformis,doubling_h,1257.68,153,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+corkrey,29470,Methylocystis pyriformis,growth_tmp,10,30,"Incorrect, not temperature where fastest growth was observed",PMID: 11558268 
+corkrey,29425,Methylobacter bovis,doubling_h,2468.36,103,"Incorrect, growth rate assyned to be d-1, but is reported as h-1 in original publication",PMID: 11558268 
+methanogen,1550566,Methanoculleus sediminis,doubling_h,0,NA,Cannot be correct,
+gold,157592,Sterolibacterium denitrificans DSM 13999,genome_size,952224,3103220,Incorrect,NCBI
+gold,68203,Streptomyces fungicidicus ATCC 21013,genome_size,116000,7667500,Incorrect,NCBI
+gold,1928,Streptomyces rochei 7434AN4,genome_size,210614,7682400,Incorrect,NCBI
+gold,1874,Micromonospora chalcea KY11091,genome_size,108236,7002790,Incorrect,NCBI
+gold,1303688,Nocardioides nitrophenolicus JCM 10703,genome_size,787463,1570670,Incorrect,NCBI
+gold,1305868,Cellulomonas hominis JCM 12133,genome_size,381033,845210,Incorrect,NCBI
+gold,1305869,Cellulomonas denverensis JCM 14733,genome_size,859201,1438440,Incorrect,NCBI
+gold,1294026,Aciditerrimonas ferrireducens JCM 15389,genome_size,772352,1176940,Incorrect,NCBI
+gold,1294259,Thermaerobacter composti JCM 15650,genome_size,667799,1085770,Incorrect,NCBI
+gold,1305867,Cellulomonas persica JCM 18111,genome_size,391802,821903,Incorrect,NCBI
+gold,992287,Cellulomonas pakistanensis JCM 18755,genome_size,351910,715138,Incorrect,NCBI
+gold,1303686,Agromyces mediolanus JCM 9631,genome_size,707946,1314350,Incorrect,NCBI
+gold,1307451,Catenuloplanes atrovinosus JCM 9535,genome_size,922859,1902390,Incorrect,NCBI
+gold,1305622,Nocardioides aromaticivorans JCM 11674,genome_size,899819,1689580,Incorrect,NCBI
+gold,1305627,Streptomyces mexicanus JCM 12681,genome_size,986785,2089350,Incorrect,NCBI
+gold,1307453,Catenuloplanes castaneus JCM 9537,genome_size,985626,2010410,Incorrect,NCBI
+gold,45398,Streptomyces griseoviridis NRRL 2427,genome_size,123563,8963410,Incorrect,NCBI
+gold,209650,Acidicaldus organivorans DX-1,genome_size,790262,2989630,Incorrect,NCBI
+kegg,1619077,Candidate division TM6 bacterium GW2011_GWF2_28_16,genome_size,853053,957686,Incorrect,NCBI
+gold,1348852,Mumia flava MUSC 201,genome_size,16377168,NA,Inconsistent (16Mb or 4.4Mb recorded),NCBI
+gold,1118279,Limnoraphis robusta CS-951,genome_size,14648592,7314120,Incorrect,NCBI
+gold,1245922,Scytonema millei VB511283,genome_size,11627246,7254120,Incorrect,NCBI
+gold,1233230,Scytonema tolypothrichoides VB-61278,genome_size,10008488,7893270,Incorrect,NCBI
+gold,1136105,Tolypothrix campylonemoides VB511288,genome_size,10627177,9468440,Incorrect,NCBI
+gold,1348852,Mumia flava DSM 27763,genome_size,4402465,NA,Inconsistent (16Mb or 4.4Mb recorded),NCBI

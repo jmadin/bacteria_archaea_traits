@@ -1,0 +1,62 @@
+# Ignore files
+
+# Large files used infrequently or only by Josh, like the Bergey's PDFs, the NCBI taxonomy, and micro ontology
+data/raw/bergeys/genera
+data/raw/bergeys/other
+data/raw/bergeys/bergey_online_pdf.csv
+data/raw/bergeys/Taxonomic_Outline_080516.pdf
+data/taxonomy/
+taxonomy_names.csv
+taxonomy_nodes.csv
+
+# Large data files
+data/raw/gold/Mark_Westoby_Organism_Metadata_Export_02152018.txt
+data/raw/patric/genome_metadata.txt
+data/taxonomy/
+data/raw/hug/
+
+# Large output files
+output/taxonomy/taxonomy_names.csv
+
+# Analysis and data files for other projects
+R/analyses/
+data/genbank_tRNA
+
+# The database web application (website)
+db/
+
+# Files of not much interest to people
+*.zip
+*.workflow
+*.sqlite3
+*.docx
+*.html
+
+# Annoying hidden files
+.Rhistory
+.RData
+.Rproj.user
+.DS_Store
+
+# Annoying Microsoft temporary files
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+
+# Files not included with data paper (josh)
+extract_mist.R
+clean_mist.csv
+data/bergeys/
+data/raw/CoboSimon/
+data/raw/COGs/
+data/raw/genbank_trna
+data/taxonomy/hug/
+data/taxonomy/gtdb/
+doc/
+#figs/
+output/prepared_phylo/
+output/references/
+output/cleaned_references/
+output/references.csv
+figs/

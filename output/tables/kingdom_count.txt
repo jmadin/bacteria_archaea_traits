@@ -1,0 +1,3 @@
+"this"	"Freq"
+"1"	"Archaea"	598
+"2"	"Bacteria"	14102
